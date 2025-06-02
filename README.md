@@ -1,9 +1,23 @@
-👋 Hi, I’m Sai Ramakrishna
-👀 I’m passionate about Java Full-Stack Development
-🌱 Currently learning Java, Spring Boot, and related technologies
-💻 Exploring projects in backend development and REST API design
-💞️ Actively seeking opportunities as a Java Full-Stack Developer
-📫 How to reach me: sairamakrishna871@gmail.com
+# 👋 Hi there! I'm Sai Ramakrishna
+
+## 🚀 Aspiring Java Full-Stack Developer
+
+- 🔭 Currently building projects using **Java** and **Spring Boot**.
+- 🌱 Learning **REST APIs**, **Microservices**, and **SQL**.
+- 👯 I’m looking to collaborate on **Java Full-Stack** projects and **open-source** contributions.
+- 💬 Ask me about **Java**, **Spring Boot**, or anything related to backend development!
+- 📫 Reach me at: **sairamakrishna871@gmail.com**
+
+## 🛠️ Tech Stack
+- 💻 Backend: Java, Spring Boot
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🗃️ Database: MySQL, H2
+- ☁️ Tools: Git, GitHub, Eclipse
+
+## 🌱 Goals for 2025
+- 🌟 Build full-stack projects with Java
+- 📚 Contribute to open-source Java projects
+- 🎓 Learn advanced Spring Boot topics like security, JWT, and microservices
 
 
 
