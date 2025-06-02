@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @sramakrishna3
-- 👀 I’m interested in java full stack developer
-- 🌱 I’m currently learning java and spring boot
-- 💞️ I’m looking to role on java full stack developer
-- 📫 How to reach or contact me sairamakrishna871@gmail.com
+👋 Hi, I’m Sai Ramakrishna
+👀 I’m passionate about Java Full-Stack Development
+🌱 Currently learning Java, Spring Boot, and related technologies
+💻 Exploring projects in backend development and REST API design
+💞️ Actively seeking opportunities as a Java Full-Stack Developer
+📫 How to reach me: sairamakrishna871@gmail.com
+
+
 
 <!---
 sramakrishna3/sramakrishna3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
